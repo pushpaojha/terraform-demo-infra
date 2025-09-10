@@ -1,1 +1,2 @@
 This is my first GitHub test file
+Now I am testing how Pull Requests work.
